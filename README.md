@@ -13,7 +13,31 @@ The other API is trying to get the city name within the U.S. and it is a local f
 ## User Interface:
 Launch Animation:
 <br>
-<img width="300" height="639" src="https://github.com/water-fur-cat/Map-Town/blob/main/user_interface.jpg"/>
+<img width="300" height="639" src="https://github.com/water-fur-cat/Keep-me-warm/blob/main/launch_flash.jpg"/>
+<br>
+Main Page:
+<br>
+<img width="300" height="639" src="https://github.com/water-fur-cat/Keep-me-warm/blob/main/main_page.jpg"/>
+<br>
+Weather Page
+<br>
+<img width="300" height="639" src="https://github.com/water-fur-cat/Keep-me-warm/blob/main/weather_page.jpg"/>
+<br>
+Add cities:
+<br>
+<img width="300" height="639" src="https://github.com/water-fur-cat/Keep-me-warm/blob/main/add_city.jpg"/>
+<br>
+Search cities by name:
+<br>
+<img width="300" height="639" src="https://github.com/water-fur-cat/Keep-me-warm/blob/main/search_page.jpg"/>
+<br>
+Calculate the temperature by clicking the checkbox:
+<br>
+<img width="300" height="639" src="https://github.com/water-fur-cat/Keep-me-warm/blob/main/calculate.jpg"/>
+<br>
+Some 3D details about cloth:
+<br>
+<img width="300" height="639" src="https://github.com/water-fur-cat/Keep-me-warm/blob/main/3D_details.jpg"/>
 <br>
 
 ## Functions:
