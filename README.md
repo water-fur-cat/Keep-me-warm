@@ -6,9 +6,7 @@
 
 ## Resources:
 1. We use two APIs one is trying to get the weather information about the latitude and longitude we input. The URL link is https://api.openweathermap.org/data/2.5/weather?lat=\(lat)&lon=\(lon)&appid=13dd5cf354a7c0eefbc84328c83db108 <br>
-2. The other API is trying to get the city name within the U.S. and it is a local file which is called "cities.json". In the file, each city contain the particular latitude and longitude.  
-<br>
-
+2. The other API is trying to get the city name within the U.S. and it is a local file which is called "cities.json". In the file, each city contain the particular latitude and longitude.  <br>
 ## User Interface:
 Launch Animation:
 <br>
@@ -36,8 +34,7 @@ Calculate the temperature by clicking the checkbox:
 <br>
 Some 3D details about cloth:
 <br>
-<img width="300" height="639" src="https://github.com/water-fur-cat/Keep-me-warm/blob/main/3D_details.jpg"/>
-<br>
+<img width="300" height="639" src="https://github.com/water-fur-cat/Keep-me-warm/blob/main/3D_details.jpg"/> <br>
 
 ## Functions:
 The app that we built is a weather app and can help you to decide your daily dressing based on the temperature of the day. Our app contains multiple views and the design of each view is beautiful. There are multiple features that work inside our app. The following bullet points are the features contained in our app: <br>
