@@ -5,9 +5,7 @@
 ##### UChicago Email: zhouyue@uchicago.edu
 
 ## Resources:
-1. We use two APIs one is trying to get the weather information about the latitude and longitude we input. The URL link is https://api.openweathermap.org/data/2.5/weather?lat=\(lat)&lon=\(lon)&appid=13dd5cf354a7c0eefbc84328c83db108
-<br>
-
+1. We use two APIs one is trying to get the weather information about the latitude and longitude we input. The URL link is https://api.openweathermap.org/data/2.5/weather?lat=\(lat)&lon=\(lon)&appid=13dd5cf354a7c0eefbc84328c83db108 <br>
 2. The other API is trying to get the city name within the U.S. and it is a local file which is called "cities.json". In the file, each city contain the particular latitude and longitude.  
 <br>
 
